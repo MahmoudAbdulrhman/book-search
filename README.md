@@ -49,5 +49,5 @@ This is a full MERN project consisting of a full functioning website that allows
 
 If you have any questions or concerns, please feel free to reach out to my:
 
-- Email: [mtiamsic@gmail.com]()
-- Github: [itsrheine]()
+- Email: []()
+- Github: []()
