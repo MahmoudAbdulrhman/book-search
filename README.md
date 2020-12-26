@@ -37,8 +37,8 @@ This is a full MERN project consisting of a full functioning website that allows
 
 # Links
 
-- Link to repository: <https://github.com/itsrheine/book-search-engine>
-- Link to website: <https://rocky-plateau-77798.herokuapp.com/>
+- Link to repository: <>
+- Link to website: <>
 
 # Screenshot
 
@@ -49,5 +49,5 @@ This is a full MERN project consisting of a full functioning website that allows
 
 If you have any questions or concerns, please feel free to reach out to my:
 
-- Email: [mtiamsic@gmail.com](mtiamsic@gmail.com)
-- Github: [itsrheine](https://github.com/itsrheine)
+- Email: [mtiamsic@gmail.com]()
+- Github: [itsrheine]()
