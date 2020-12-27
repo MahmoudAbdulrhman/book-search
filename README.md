@@ -44,9 +44,9 @@ This is a full MERN project consisting of a full functioning website that allows
 
 ![Screenshot](images/1.png)
 
-![Screenshot](images/2.PNG)
+![Screenshot](images/21.PNG)
 
-![Screenshot](images/3.PNG)
+![Screenshot](images/23.PNG)
 
 # Questions
 
